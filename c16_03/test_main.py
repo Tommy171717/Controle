@@ -8,4 +8,5 @@ note7 = ('eleve2', 'math', 13)
 note8 = ('eleve2', 'math', 14)
 
 notes = [note1, note2, note3, note4, note5, note6,note7,note8]
+notes_eleves1 = [note1, note2, note3, note4, note5, note6]
 
